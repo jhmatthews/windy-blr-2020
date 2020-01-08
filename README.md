@@ -4,7 +4,9 @@ Data and scripts for Matthews et al. 2020 paper entitled "Stratified disc wind m
 Please feel free to play around with the data or make your own plots. If you use this data or any of the code, please cite the MNRAS paper. 
 
 See also: 
+
 https://github.com/jhmatthews/quasar-wind-grid
+
 https://github.com/agnwinds/python
 
 ### Data Structure
