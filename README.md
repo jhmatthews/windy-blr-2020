@@ -24,12 +24,12 @@ where the numbers refer to the run number, the minimum and maximum opening angle
 The header contains the parameters for the files, with comments denoted by hashes. The column headers are then 
 
 ```
-Freq.        Lambda    Created  Emitted   CenSrc     Disk     Wind  HitSurf Scattered A05
+Freq.  Lambda    Created  Emitted   CenSrc     Disk     Wind  HitSurf Scattered A05 A10 A15 [et cetera]
 ```
 
 where Freq. and Lambda and frequency and wavelength and the other columns refer to various fluxes in the system. Fluxes at an angle 60 degrees are in the column A60. 
 
-All fluxes have units of flux in somewhat arbitrary units of erg/s/cm^2/Angstrom at 100 parsecs. This should be rescaled for a realistic quasar flux. 
+Important: All fluxes have units of flux in somewhat arbitrary units of erg/s/cm^2/Angstrom at 10 Gigaparsecs. This should be rescaled for any realistic quasar flux you desire. 
 
 
 ### Physical data files 
