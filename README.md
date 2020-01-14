@@ -1,5 +1,5 @@
 # windy-blr-2020
-Data and scripts for Matthews et al. 2020 paper entitled "Stratified disc wind models for the AGN broad-line region: ultraviolet, optical and X-ray properties".
+Data and scripts for Matthews et al. 2020 paper entitled "Stratified disc wind models for the AGN broad-line region: ultraviolet, optical and X-ray properties", [arXiv:200102242](https://arxiv.org/abs/2001.02242)
 
 Please feel free to play around with the data or make your own plots. If you use this data or any of the code, please cite the MNRAS paper. 
 
